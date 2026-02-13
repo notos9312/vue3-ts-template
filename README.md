@@ -1,31 +1,34 @@
-# Vue 3 + TypeScript + Vite
+# [@notos9312/vue3-ts-template](https://github.com/notos9312/vue3-ts-template)
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+- Base on the [Vite](https://vite.dev/) officially recommended `vue-ts` template
+- Use [Vue-Router](https://github.com/vuejs/router) as the Router for [Vue](https://github.com/vuejs/core)
+- Use [Pinia](https://github.com/vuejs/pinia) as the Store for [Vue](https://github.com/vuejs/core)
+- Use [@antfu/eslint-config](https://github.com/antfu/eslint-config) as Linter and Formatter
+- Use [lint-staged](https://github.com/lint-staged/lint-staged) and [simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) as CLI
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
-
-## dev
+## Dev
 
 ```bash
 pnpm run dev
 ```
 
-## build
+## Build
 
 ```bash
 pnpm run build
 ```
 
 ## ESLint
+
 use [antfu/eslint-config](https://github.com/antfu/eslint-config)
 
-## lint the code in project
+## Lint the code in project
 
 ```bash
 pnpm run lint:fix
 ```
 
-## view what rules are enabled
+## View what rules are enabled
 
 ```bash
 npx @eslint/config-inspector
