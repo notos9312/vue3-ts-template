@@ -3,6 +3,9 @@
   "prettier.enable": false,
   "editor.formatOnSave": false,
 
+  // Should be consistent with `stylistic.indent` in eslint.config.js
+  "editor.tabSize": 2,
+
   // Auto fix
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit",
@@ -47,7 +50,8 @@
     "pcss",
     "postcss"
   ],
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  
+  // Show .git in VSCode
   "files.exclude": {
     "**/.git": false,
     "**/.svn": true,

@@ -3,8 +3,8 @@ import type { RouteRecordRaw } from 'vue-router'
 // import { bar } from './bar'
 
 const routes: RouteRecordRaw[] = [
-//   foo,
-//   bar,
+  // foo,
+  // bar,
 ]
 
 export default routes
