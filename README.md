@@ -20,7 +20,7 @@ pnpm run build
 
 ## ESLint
 
-use [antfu/eslint-config](https://github.com/antfu/eslint-config)
+use [@antfu/eslint-config](https://github.com/antfu/eslint-config)
 
 ## Lint the code in project
 
