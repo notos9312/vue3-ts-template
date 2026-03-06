@@ -1,4 +1,4 @@
-# [@notos9312/vue3-ts-template](https://github.com/notos9312/vue3-ts-template)
+# [@notosleung/vue3-ts-template](https://github.com/notosleung/vue3-ts-template)
 
 - Base on the **[Vite](https://vite.dev/)** officially recommended `vue-ts` template
 - Use **[Vue-Router](https://github.com/vuejs/router)** as the Router for **[Vue](https://github.com/vuejs/core)**
