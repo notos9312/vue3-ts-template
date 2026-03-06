@@ -46,10 +46,6 @@ test:     测试相关
 chore:    构建/工具/依赖更新
 ```
 
-## State Management Solution
-
-Recommend **[Zusand](https://github.com/pmndrs/zustand)**
-
 ## Style
 
 Recommend **[UnoCSS](https://github.com/unocss/unocss)** or **[tailwindcss](https://github.com/tailwindlabs/tailwindcss)**
